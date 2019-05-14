@@ -215,7 +215,7 @@ for a in range(cant_ini):
     
 
 
-for k in range(2):
+for k in range(num_epocas):
     print("\n\nEPOCA ",k+1)
     poblacion_inicial,poblacion_inicial2=ordenar(poblacion_inicial,poblacion_inicial2,num_cromosoma)
     
